@@ -2,10 +2,7 @@
 
 Este proyecto implementa un formulario de registro de usuario con validaciones completas tanto del lado del cliente como mediante pruebas automatizadas con Cypress. El sistema incluye validación de campos, seguridad de contraseñas, y una página de confirmación para mostrar la información del usuario registrado.
 
-<video width="640" height="360" controls>
-  <source src="prueba.mp4" type="video/mp4">
-  Tu navegador no soporta la etiqueta de video.
-</video>
+![Descripción del video](video_explicacion.gif)
 
 ## Características
 
